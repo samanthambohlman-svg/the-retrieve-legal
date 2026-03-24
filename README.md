@@ -2,6 +2,7 @@
 Legal documents for hunting dog training app The Retrieve.
 
 Privacy Policy
+-------------------------
 Effective Date: 03/23/2026
 
 This Privacy Policy describes how The Retrieve (“we”, “our”, or “us”) collects, uses, and protects your information when you use the mobile application.
@@ -56,6 +57,7 @@ If you have questions, contact:
 samantham.bohlman@gmail.com
 
 Terms of Service
+-------------------------
 Effective Date: 03/23/2026
 
 By using The Retrieve, you agree to the following terms.
