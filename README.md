@@ -27,32 +27,30 @@ Respond to user inquiries or support requests
 We do not sell your data to third parties.
 
 3. Data Storage
-Your data is securely stored using third-party cloud infrastructure (e.g., Supabase).
-We take reasonable measures to protect your information, but no system is completely secure.
+Your data, including training logs, hunt records, and photos, is stored locally on your device.
+We do not transmit or store your data on external servers.
 
-4. Photos
+5. Photos
 Photos uploaded to the app are:
 Stored securely
 Used only within the app
 Shared only when explicitly initiated by the user
 We do not use your photos for advertising or external purposes.
 
-5. Data Sharing
-We do not share your personal data with third parties, except:
-When required by law
-To operate essential services (e.g., cloud storage providers)
+6. Data Sharing
+We do not collect, store, or share your data on external servers. All data remains on your device.
 
-6. Your Control
+7. Your Control
 You control the data you provide. You may:
 Edit or delete your data within the app
 Stop using the app at any time
 
-7. Children’s Privacy
+8. Children’s Privacy
 This app is not intended for children under 13. We do not knowingly collect data from children.
 
-8. Changes to This Policy
+9. Changes to This Policy
 We may update this Privacy Policy from time to time. Updates will be reflected by the “Effective Date.”
-9. Contact
+10. Contact
 If you have questions, contact:
 samantham.bohlman@gmail.com
 
